@@ -1,0 +1,3 @@
+Anotações das aulas:
+
+- JSX (JavaScript XML): quando o HTML está integrado dentro do JavaScript.
